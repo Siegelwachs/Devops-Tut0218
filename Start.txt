@@ -1,1 +1,3 @@
 Dies Ist ein erster Versuch auf GitHub! Stand 05.02.2018
+
+Dies ist meine 1.Änderung
