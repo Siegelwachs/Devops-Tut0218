@@ -1,3 +1,3 @@
 Dies Ist ein 1. Versuch auf GitHub! Stand 05.02.2018
 
-Dies ist meine 1.Änderung inkl. Feature 1
+Dies ist meine 1. Aenderung inkl. Feature 1
